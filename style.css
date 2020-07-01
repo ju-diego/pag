@@ -1,0 +1,34 @@
+.header{
+    background-color: black;
+    color:white;
+    height: 70px;
+    height: inherit ;
+    justify-content: space-between;
+}
+#todo{
+    background-color: black;
+    
+}
+#linea{
+    color: white;
+}
+#visitanos{
+    color:white
+}
+#video{
+    color:white
+}
+#Palabras{
+    color:white
+}
+#contactanos{
+    background-color: blue;
+}
+#final{ 
+    color:white;
+    background-color: blue;
+}
+#lista{
+    color:white;
+   
+}
